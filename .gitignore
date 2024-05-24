@@ -1,3 +1,5 @@
 flask
 templates
 __pycache__
+.env
+requirements.txt
